@@ -734,6 +734,9 @@ select {
 .w-48 {
   width: 12rem;
 }
+.w-1\/4 {
+  width: 25%;
+}
 .max-w-6xl {
   max-width: 72rem;
 }
@@ -828,6 +831,9 @@ select {
 .border {
   border-width: 1px;
 }
+.border-2 {
+  border-width: 2px;
+}
 .border-t {
   border-top-width: 1px;
 }
@@ -837,11 +843,11 @@ select {
 .border-b-2 {
   border-bottom-width: 2px;
 }
-.border-l-4 {
-  border-left-width: 4px;
-}
 .border-r {
   border-right-width: 1px;
+}
+.border-l-4 {
+  border-left-width: 4px;
 }
 .border-gray-300 {
   --tw-border-opacity: 1;
